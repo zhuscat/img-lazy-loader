@@ -26,6 +26,10 @@ imgLazyLoader.init()
 
 `interval` 为滚动事件回调间隔，默认为 250
 
+### imgLazyLoader.configInterval(interval?)
+
+设置滚动事件回调间隔
+
 ## 待办
 
 完善代码结构
